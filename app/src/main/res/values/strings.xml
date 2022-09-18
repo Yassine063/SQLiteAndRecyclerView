@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">labo1</string>
+    <string name="NomDuProduit">Produit</string>
+    <string name="CodeCatégorie">Catégorie</string>
+    <string name="PrixUnitaire">Prix unité</string>
+    <string name="UnitéEnStock">Unité en stock</string>
+    <string name="ref">ref</string>
+    <string name="TotalInventaire">Total inventaire</string>
+    <string name="afficherInventaire">Inventaire total</string>
+    <string-array name="categorie_array">
+        <item>Select Catégorie</item>
+        <item>Boissons</item>
+        <item>Condiments</item>
+        <item>Produits secs</item>
+        <item>Viandes</item>
+        <item>Poissons et fruits de mer</item>
+    </string-array>
+</resources>
